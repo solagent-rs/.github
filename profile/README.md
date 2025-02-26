@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Our vision is to build the AI infrastructure for Solana protocol.
+Our vision is to build an AI-powered DeFi infrastructure ecosystem.
 
 ### Infra  
 **[solagent.rs](https://github.com/zTgx/solagent.rs)**: The premier on-chain AI toolkit for connecting any AI agents to Solana protocols in Rust.  
