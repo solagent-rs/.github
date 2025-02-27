@@ -14,10 +14,11 @@
 Our vision is to build an AI-powered DeFi infrastructure ecosystem.
 
 ### Infra  
-**[solagent.rs](https://github.com/zTgx/solagent.rs)**: The premier on-chain AI toolkit for connecting any AI agents to Solana protocols in Rust.  
+**[solagent.rs](https://github.com/zTgx/solagent.rs)**: The premier on-chain AI toolkit.  
 **[solagent-ai](https://github.com/solagent-rs/solagent-ai)**: Empower your team to chat with trading data.  
 **[topkio.rs](https://github.com/solagent-rs/topkio.rs)**: AI agent frameworks - small, fast, powerful, and easy to use.  
 **[xplore](https://github.com/solagent-rs/xplore)**: A brand new Twitter/X client in Rust.  
+**[fulid](https://github.com/solagent-rs/fulid)**: Algorithmic trading Engine.  
 
 <!--
 ### Products
