@@ -11,12 +11,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Our vision is to build an AI-powered DeFi infrastructure ecosystem.
+**Hyperlink AI & Blockchain: Connecting Intelligence and Value Autonomously.**
 
-### Infra  
-**[solagent.rs](https://github.com/zTgx/solagent.rs)**: The premier on-chain AI toolkit.  
+Fork our <a> SDK to connect your AI to any chain
+
+<!--
 **[topkio.rs](https://github.com/solagent-rs/topkio.rs)**: The Small, fast, powerful, and easy to use **Multi-Agent Collaboration Workflow**.  
 **[xplore](https://github.com/solagent-rs/xplore)**: A brand new Twitter/X client in Rust.  
+-->
 
 <!--
 ### Products
